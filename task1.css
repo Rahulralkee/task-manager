@@ -1,0 +1,31 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+marquee{
+    background-color:skyblue;
+}
+button {
+    margin-left: 5px;
+    color: black;
+    background-color: red;
+}
+
+h1{
+    color:darkblue;
+    font-style:italic;
+}
+body{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTnS09Mte7PWrtFUPZ7NUvSbA5mDWeAgxa-dK9RbdOT_mg_Hkhte5PDhUaKSgGNgJCWIM&usqp=CAU");
+    background-size:100%;
+    background-repeat: no-repeat;
+}
